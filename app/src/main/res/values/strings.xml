@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">global-logic-challenge</string>
+    <string name="app_name">LapShow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">How to get started</string>
+    <string name="cards">Touch the cards and access the information of each product</string>
+    <string name="go">Go!</string>
+    <string name="products">Nuestros Productos</string>
+    <string name="details">Contamos con la mejor calidad</string>
 </resources>

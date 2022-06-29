@@ -14,7 +14,3 @@ data class Laptop(
     val description:String
 ): Parcelable
 
-@Parcelize
-data class LaptopList(
-    val laptopList: List<Laptop>
-):Parcelable

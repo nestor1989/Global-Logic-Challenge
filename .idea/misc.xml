@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android-sdk/Global-Logic-Challenge/app/src/main/res/drawable/splash_screen.xml" value="0.199" />
+        <entry key="..\:/android-sdk/Global-Logic-Challenge/app/src/main/res/drawable/style_button.xml" value="0.199" />
+        <entry key="..\:/android-sdk/Global-Logic-Challenge/app/src/main/res/layout-land/fragment_details.xml" value="0.3114754098360656" />
+        <entry key="..\:/android-sdk/Global-Logic-Challenge/app/src/main/res/layout-land/fragment_intro.xml" value="0.1728395061728395" />
+        <entry key="..\:/android-sdk/Global-Logic-Challenge/app/src/main/res/layout-land/laptop_row.xml" value="0.1728395061728395" />
+        <entry key="..\:/android-sdk/Global-Logic-Challenge/app/src/main/res/layout-land/main_fragment.xml" value="0.1728395061728395" />
+        <entry key="..\:/android-sdk/Global-Logic-Challenge/app/src/main/res/layout/activity_main.xml" value="0.26685393258426965" />
+        <entry key="..\:/android-sdk/Global-Logic-Challenge/app/src/main/res/layout/fragment_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/android-sdk/Global-Logic-Challenge/app/src/main/res/layout/fragment_intro.xml" value="0.20416666666666666" />
+        <entry key="..\:/android-sdk/Global-Logic-Challenge/app/src/main/res/layout/laptop_row.xml" value="0.18" />
+        <entry key="..\:/android-sdk/Global-Logic-Challenge/app/src/main/res/layout/main_fragment.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
