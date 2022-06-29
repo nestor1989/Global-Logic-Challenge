@@ -46,7 +46,6 @@
         android:textAlignment="center"
         android:fontFamily="@font/at_surt_regular"
         android:lineHeight="31sp"
-        android:maxLines="2"
         android:paddingHorizontal="24sp"
         android:textFontWeight="600"
         android:textSize="20sp"

@@ -7,12 +7,12 @@
     tools:context=".ui.MainActivity">
 
     <ImageView
-        android:layout_width="128dp"
-        android:layout_height="91dp"
+        android:layout_width="156dp"
+        android:layout_height="124dp"
         android:layout_margin="16dp"
         android:layout_marginTop="16dp"
 
-        android:src="@drawable/lap_icon"
+        android:src="@drawable/lap_icon_rounded"
         app:layout_constraintBottom_toTopOf="@+id/nav_host_fragment"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"

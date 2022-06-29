@@ -37,7 +37,6 @@
             android:layout_height="wrap_content"
             android:layout_gravity="top|center_horizontal"
             android:background="#80FFFFFF"
-            android:maxLines="2"
             android:paddingHorizontal="8dp"
             android:textAlignment="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
